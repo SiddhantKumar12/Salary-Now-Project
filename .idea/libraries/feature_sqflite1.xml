@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="feature-sqflite1">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/build/sqflite/intermediates/merged_java_res/debug/feature-sqflite.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

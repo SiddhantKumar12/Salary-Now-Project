@@ -1,0 +1,22 @@
+com.wongpiwat.trust_location-jetified-window-java-1.0.0-beta04-0 C:\Users\siddh\.gradle\caches\transforms-3\0453bb352c73c4cfd2f7f548d9d96374\transformed\jetified-window-java-1.0.0-beta04\res
+com.wongpiwat.trust_location-lifecycle-runtime-2.3.1-1 C:\Users\siddh\.gradle\caches\transforms-3\0c59ede736a647689348c3727edf28eb\transformed\lifecycle-runtime-2.3.1\res
+com.wongpiwat.trust_location-jetified-play-services-basement-17.5.0-2 C:\Users\siddh\.gradle\caches\transforms-3\25d9bcdd42503ade87fcd9702f6e8ff2\transformed\jetified-play-services-basement-17.5.0\res
+com.wongpiwat.trust_location-media-1.0.0-3 C:\Users\siddh\.gradle\caches\transforms-3\329e5c11886b0bd1378e83634a3d2312\transformed\media-1.0.0\res
+com.wongpiwat.trust_location-jetified-appcompat-resources-1.3.0-4 C:\Users\siddh\.gradle\caches\transforms-3\34bd2cf6840d9953458803a6d536626d\transformed\jetified-appcompat-resources-1.3.0\res
+com.wongpiwat.trust_location-jetified-window-1.0.0-beta04-5 C:\Users\siddh\.gradle\caches\transforms-3\44411455730c588f6384249ed723b7cb\transformed\jetified-window-1.0.0-beta04\res
+com.wongpiwat.trust_location-jetified-play-services-base-17.5.0-6 C:\Users\siddh\.gradle\caches\transforms-3\55f7f67f73328a51cb5440f7d9eb092a\transformed\jetified-play-services-base-17.5.0\res
+com.wongpiwat.trust_location-core-1.6.0-7 C:\Users\siddh\.gradle\caches\transforms-3\68f19437d0737a31487785fad0f2a02f\transformed\core-1.6.0\res
+com.wongpiwat.trust_location-jetified-annotation-experimental-1.1.0-8 C:\Users\siddh\.gradle\caches\transforms-3\770848d9ea980ddcb3dfb30e739c7726\transformed\jetified-annotation-experimental-1.1.0\res
+com.wongpiwat.trust_location-fragment-1.3.4-9 C:\Users\siddh\.gradle\caches\transforms-3\86f55fd1c26425fd2e158c2f330843a1\transformed\fragment-1.3.4\res
+com.wongpiwat.trust_location-lifecycle-viewmodel-2.3.1-10 C:\Users\siddh\.gradle\caches\transforms-3\896f429c800db5c6d252246bc3341d81\transformed\lifecycle-viewmodel-2.3.1\res
+com.wongpiwat.trust_location-jetified-savedstate-1.1.0-11 C:\Users\siddh\.gradle\caches\transforms-3\987922c25c8fcc534dfbab54ab23ca54\transformed\jetified-savedstate-1.1.0\res
+com.wongpiwat.trust_location-coordinatorlayout-1.0.0-12 C:\Users\siddh\.gradle\caches\transforms-3\adba8d296ff05cffc69e9a0a203453e4\transformed\coordinatorlayout-1.0.0\res
+com.wongpiwat.trust_location-appcompat-1.3.0-13 C:\Users\siddh\.gradle\caches\transforms-3\b5e9f115b1c5f0083410f9918ff9632c\transformed\appcompat-1.3.0\res
+com.wongpiwat.trust_location-main-14 C:\Users\siddh\AppData\Local\Pub\Cache\hosted\pub.dev\trust_location-2.0.13\android\src\main\res
+com.wongpiwat.trust_location-release-15 C:\Users\siddh\AppData\Local\Pub\Cache\hosted\pub.dev\trust_location-2.0.13\android\src\release\res
+com.wongpiwat.trust_location-pngs-16 D:\salary now projects\salary-now-master-staging\build\trust_location\generated\res\pngs\release
+com.wongpiwat.trust_location-resValues-17 D:\salary now projects\salary-now-master-staging\build\trust_location\generated\res\resValues\release
+com.wongpiwat.trust_location-rs-18 D:\salary now projects\salary-now-master-staging\build\trust_location\generated\res\rs\release
+com.wongpiwat.trust_location-mergeReleaseResources-19 D:\salary now projects\salary-now-master-staging\build\trust_location\intermediates\incremental\release\mergeReleaseResources\merged.dir
+com.wongpiwat.trust_location-mergeReleaseResources-20 D:\salary now projects\salary-now-master-staging\build\trust_location\intermediates\incremental\release\mergeReleaseResources\stripped.dir
+com.wongpiwat.trust_location-merged_res-21 D:\salary now projects\salary-now-master-staging\build\trust_location\intermediates\merged_res\release

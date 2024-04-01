@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="feature-webview_flutter_android1">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/build/webview_flutter_android/intermediates/merged_java_res/release/feature-webview_flutter_android.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

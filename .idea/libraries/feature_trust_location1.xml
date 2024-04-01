@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="feature-trust_location1">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/build/trust_location/intermediates/merged_java_res/debug/feature-trust_location.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
